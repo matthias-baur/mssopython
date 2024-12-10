@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.colors import hsv_to_rgb
 from matplotlib.animation import *
-from mpl_toolkits.mplot3d import Axes3D
+
 from scipy.special import jv
 from scipy.special import hankel1
 from scipy.special import jn_zeros

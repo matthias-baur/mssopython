@@ -3,7 +3,7 @@ import numpy as np
 import scipy
 import matplotlib.pyplot as plt
 from matplotlib.colors import hsv_to_rgb
-from mpl_toolkits.mplot3d import Axes3D
+
 import scipy.special
 from scipy.special import hyperu
 from scipy.special import hankel1

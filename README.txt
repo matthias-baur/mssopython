@@ -13,7 +13,9 @@ Contact: matthias.baur@mathematik.uni-stuttgart.de
 ###  Dependencies   ###
 #######################
 
-This code uses the PyGSL Python wrapper package for GSL functions, and in particular the confluent hypergeometric U function from it.
+- NumPy, SciPy and matplotlib
+
+- This code uses the PyGSL Python wrapper package for GSL functions, and in particular the confluent hypergeometric U function from it.
 Link: https://github.com/pygsl/pygsl
 
 Note that PyGSL needs to be built with special functions enabled (testing build) otherwise the code won't work!
